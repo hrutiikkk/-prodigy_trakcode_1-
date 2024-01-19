@@ -1,5 +1,8 @@
 # -prodigy_trakcode_1-
 Responsive Landing Page
-create an interactive navigation menu that changes color or style when scrolling or when navigation over a menu item.
-The navigation menu should have a fixed position and be visible on all pages. use HTML to structure the menu, CSS to style it,
-and javascript to add interactivity, such as changing the background color or font scrolled or when a menu item is hovered over.
+- Responsive Christmas Landing Page Using HTML CSS And JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Includes a dark and light mode.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
